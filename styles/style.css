@@ -1,0 +1,59 @@
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  margin: auto;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  padding: 8px;
+}
+
+.logo {
+  display: block;
+  margin: 100px auto auto auto;
+  padding: 25px;
+}
+
+.header {
+  margin: 0px;
+  padding: 0px;
+  font-size: 12px;
+}
+
+.main {
+  width: 50%;
+  margin: auto auto;
+  padding: 10px;
+}
+
+input[type=text] {
+  width: 100%;
+  margin: 20px auto;
+  padding: 12px 20px;
+  /*
+  background-image: foo;
+  background-position: ;
+  background-repeat: no-repeat;
+  */
+}
+
+input[type=submit] {
+  color:blue;
+}
+
+form {
+
+}
+
+.buttons {
+  margin: auto;
+  width: 50%;
+}
